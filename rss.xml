@@ -2,16 +2,16 @@
     <channel>
         <title><![CDATA[NYC Confidant]]></title>
         <description><![CDATA[NYC Confidant]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/nyc-confidant/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 14 Feb 2016 23:05:56 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Sun, 14 Feb 2016 23:15:34 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/nyc-confidant/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
-            <description><![CDATA[<p>About</p>]]></description>
-            <link>undefinedc4fc8326-e182-48e5-a215-017bf765a80f/index.html</link>
+            <description><![CDATA[<img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/74a6e17b7f45bc9c20f94e209d29707aa130d70c.png" alt="" title="">]]></description>
+            <link>https://thegrid.ai/nyc-confidant/c4fc8326-e182-48e5-a215-017bf765a80f/index.html</link>
             <guid isPermaLink="false">c4fc8326-e182-48e5-a215-017bf765a80f</guid>
-            <pubDate>Sun, 14 Feb 2016 23:05:46 GMT</pubDate>
+            <pubDate>Sun, 14 Feb 2016 23:15:32 GMT</pubDate>
         </item>
     </channel>
 </rss>
